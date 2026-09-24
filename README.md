@@ -18,7 +18,6 @@ O projeto integra uma interface declarativa com Jetpack Compose a uma arquitetur
 - [Estrutura do projeto](#estrutura-principal-do-projeto)
 - [Como executar](#como-executar)
 - [Evidências](#evidências-da-implementação)
-- [Checklist funcional](#checklist-funcional)
 
 ## Funcionalidades
 
@@ -509,7 +508,7 @@ O projeto também possui, em `app/src/androidTest`, testes instrumentados do DAO
 ### Pelo Android Studio
 
 1. Clone este repositório ou baixe e extraia o ZIP.
-2. Abra a pasta raiz `todolist` no Android Studio.
+2. Abra a pasta raiz `CP_Kotilin` no Android Studio.
 3. Aguarde a sincronização do Gradle e o download das dependências.
 4. Selecione um emulador ou dispositivo físico.
 5. Execute a configuração `app` pelo botão **Run**.
@@ -600,6 +599,6 @@ As imagens abaixo registram os fluxos obrigatórios solicitados na atividade. Os
 
 <img src="app/src/main/java/arthurqzn/com/github/todolist/docs/evidencias/BuildProjeto.png" alt="Build do projeto concluído com sucesso no Android Studio" width="100%">
 
-**Descrição:** painel **Build Output** do Android Studio com a mensagem `BUILD SUCCESSFUL`, confirmando a montagem do aplicativo sem erros. Além da evidência registrada, a versão documentada neste README foi verificada com `gradlew.bat assembleDebug` e concluiu as 37 tarefas do build com sucesso.
+o.
 
 
